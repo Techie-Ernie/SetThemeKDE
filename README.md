@@ -15,4 +15,4 @@ Make sure you have papirus-folders installed so that the script can change the f
 
 Make sure you have Pywal installed so that my script can change the terminal colours.
 
-![Screenshot-1](https://imgur.com/CBh9Zmd)
+![Screenshot-1](https://i.imgur.com/CBh9Zmd.png)
