@@ -17,6 +17,7 @@ Make sure you have Pywal installed so that my script can change the terminal col
 4. (Optional) Add a alias to your shell's config file to run this script when you type in a command.
 
 **Dependencies:**
+
 Pywal
 
 Papirus-folders (https://github.com/PapirusDevelopmentTeam/papirus-folders)
