@@ -14,3 +14,5 @@ Make sure your wallpapers are in ~/Pictures/Wallpapers or change the directory i
 Make sure you have papirus-folders installed so that the script can change the folder colour.
 
 Make sure you have Pywal installed so that my script can change the terminal colours.
+
+![Screenshot-1](https://imgur.com/CBh9Zmd)
