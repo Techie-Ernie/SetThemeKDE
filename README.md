@@ -1,9 +1,10 @@
 # SetThemeKDE
 My first script :D
+
 **A tool I created to change the wallpaper, folder colour and colour theme in the terminal, all in one script. (Only works in KDE)**
 
 
-Dependencies:
+**Dependencies:**
 Pywal
 
 Papirus-folders (https://github.com/PapirusDevelopmentTeam/papirus-folders)
