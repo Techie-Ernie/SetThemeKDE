@@ -4,7 +4,7 @@ A tool I created to change the wallpaper, folder colour and colour theme in the 
 
 
 Dependencies:
-Pywal
+Pywal,
 Papirus-folders (https://github.com/PapirusDevelopmentTeam/papirus-folders)
 
 Make sure your wallpapers are in ~/Pictures/Wallpapers or change the directory in the script.
